@@ -84,4 +84,4 @@ Or run interactively in RStudio. Ensure your working directory contains the inpu
 
 ## Acknowledgement 
 
-This is an ongoing project at the Microbial Genome Analysis Group, Institute for Infection Prevention and Hospital Epidemiology, Üniversitätsklinikum, Freiburg. The TAPIR (Tracking the Acquisition of Pathogens in Real-Time) project led by https://www.uniklinik-freiburg.de/institute-for-infection-prevention-and-control/microbial-genome-analysis.html
+This is an ongoing project at the Microbial Genome Analysis Group, Institute for Infection Prevention and Hospital Epidemiology, Üniversitätsklinikum, Freiburg. The TAPIR (Tracking the Acquisition of Pathogens in Real-Time) project led by [Dr. Sandra Reuter](https://www.uniklinik-freiburg.de/institute-for-infection-prevention-and-control/microbial-genome-analysis.html).
