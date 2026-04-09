@@ -1,17 +1,8 @@
-i# ============================================================
+# ============================================================
 # Cluster Timeline Bubble Plot
 # ============================================================
-# Description: Visualises weekly cluster dynamics across
-#              Enterobacteriaceae sequence types (STs) using
-#              Illumina-based clustering data. Bubble size
-#              represents the number of unique patients per
-#              ST per week.
 #
-# Input:  figure1_metadata_160326.csv
-# Output: TAPIR_cluster_bubble_plot.svg
-#         TAPIR_cluster_bubble_plot.png
-#
-# Author: Ife
+# Author: Ifeoluwa Akintayo
 # ============================================================
 
 library(tidyverse)
